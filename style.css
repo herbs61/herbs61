@@ -1,0 +1,32 @@
+    body {
+        background: lightblue;
+    }
+    
+    .container {
+        max-width: 350px;
+        margin: auto;
+        border-radius: 5px;
+        background: #96bb72;
+        padding: 20px;
+    }
+    
+    input[type=text],
+    select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+    
+    input[type=number] {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }

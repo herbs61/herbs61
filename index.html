@@ -6,37 +6,49 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <div class="container1">
-        <h1>Grading System</h1>
-        <label for="">English</label><br><input type="text" id="eng">
-        <br>
-        <label for="">Math</label><br><input type="text" id="mat">
-        <br>
-        <label for="">Science</label><br> <input type="text" id="sci">
-        <br>
-        <label for="">Social</label><br><input type="text" id="soc">
-        <br>
-        <br>
-        <br>
-        <button onclick="total()">Total</button>
-        <button onclick="average()">Average</button>
-        <button onclick="grade()">Grade</button>
-        <style>
+    <div class="container">
+        <h1>Travelling Form</h1>
 
-        </style>
+        <label for=""> Full Name</label> <input type="text" placeholder="Enter full name" id="f_Name"> <br>
+        <label for=""> Age</label> <input type="text" placeholder="Enter your age" id="age"> <br>
+        <label for="">Nationality: </label>
+        <select name="dropdown" id="nation"> Natioanlity
+                <option value="Ghana">Ghanaian </option>
+                <option value="Nigeria">Nigerian </option>
+                <option value="USA">American </option>
+                <option value="South Korea">Korean </option>
+            </select> <br>
+        <label for="">Ticket Number</label> <input type="number" id="tic"> <br>
+        <label for="">Departure</label> <input type="text" pattern="[a-Za-z]*" id="dep"> <br>
+        <label for="">Destination</label> <input type="text" name="" id="des"> <br> <br>
+
+        <button onclick="submit()">Submit</button>
+        <br>
+
     </div>
 
-    <div class="container2">
-
-        <h2 id="total">Total Result</h2>
-        <h2 id="avg">Average</h2>
-        <h2 id="gra">Grade</h2>
+    <div class="container-2">
+        <h1> Travel Details</h1>
+        <h2 id="tr_name">Full Name</h2>
+        <h2 id="tr_age">Age</h2>
+        <h2 id="tr_nation">Nation</h2>
+        <h2 id="tr_number">Ticket No.</h2>
+        <h2 id="tr_depart">Departure</h2>
+        <h2 id="tr_destin">Destination</h2>
     </div>
-
+<br>
+<br>
+    <h1>Group 3</h1>
+    <p>Kenneth D. Agbeley</p>
+    <p>Herbert N.Y Owusu</p>
+    <p>Samuel Addo Kofi Nyanyo</p>
+    <p>Abigail Akasi Essuman</p>
+    <p>Nana K. Agyeman</p>
+    <p>Solomon O. Manu</p>
 
     <script src="index.js"></script>
 </body>
