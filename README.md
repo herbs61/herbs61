@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @herbs61
 - 👀 I’m interested in getting more projects 
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on building an app
 - 📫 How to reach me herbertowusu61@gmail.com 
 
