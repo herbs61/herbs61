@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Herbert</h1>
 <h3 align="center">A passionate frontend and backend developer from Ghana</h3>
 
-- 🌱 I’m currently learning **C#,Angular**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **herbertowusu61@gmail.com**
 
