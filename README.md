@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **On a site for Campus Ministry in my school**
 
-- 🌱 I’m currently learning **Django and C#**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **herbertowusu61@gmial.com**
 
