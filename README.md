@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Herbert Owusu</h1>
+<h1 align="center">Hi 👋, I'm Herbert Nana Yaw Owusu</h1>
 <h3 align="center">A passionate Web developer from Ghana</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herbs61" alt="herbs61" /></a> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 📫 How to reach me **herbertowusu61@gmial.com**
+- 📫 How to reach me **herbertowusu61@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
