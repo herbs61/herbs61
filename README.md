@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a site for Campus Ministry in my school**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Php and Laravel**
 
 - 📫 How to reach me **herbertowusu61@gmail.com**
 
