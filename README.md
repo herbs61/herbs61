@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herbs61" alt="herbs61" /></a> </p>
 
-- 🔭 I’m currently working on **a project for National Alliance of Ghana Law Student **
+- 🔭 I’m currently working on **a project for National Alliance of Ghana Law Student**
 
 - 🌱 I’m currently learning **Php,Laravel**
 
